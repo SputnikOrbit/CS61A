@@ -1,0 +1,5 @@
+*.vscode
+*.exe
+*.bin
+*.md
+!CS61A_study_note.md
